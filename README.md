@@ -69,9 +69,12 @@ ejecutar el bot a través del siguiente comando:
 node index.js 
 ```
 
-Desde cualquier dispositivo con servicio de ubicación, podremos mandar nuestra 
-posición y el bot nos responderá con la estación de Valenbisi más cercana 
-ubicada en Google Maps, junto con los datos básicos de la misma.
+Ya solo nos quedará buscar nuestro bot a través de Telegram, filtrando por el 
+nombre de usuario que le hayamos indicado a nuestro BotFather. Desde cualquier 
+dispositivo con servicio de ubicación, podremos mandar nuestra posición y el 
+bot nos responderá con la estación de Valenbisi más cercana recibiendo su 
+ubicación por medio de un mapa de Google Maps, junto con los datos básicos de 
+la misma.
 
 ![alt Imagen con la respuesta de la estación más cercana devuelta por el bot]
 (/img/bot_response.png)
